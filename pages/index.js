@@ -27,17 +27,17 @@ const Index = () => (
                             </p>
 
                             <p>
-                            I have a strong interest in technologies as React, Node.js,
-                            Next.js, Mongodb, Firebase, Git repositories, and styling with frameworks as Bootstrap, bootswatch
-                            and tailwinds. I invite you to take a look at the proyects I have developed.
+                                I have a strong interest in technologies as React, Node.js,
+                                Next.js, Mongodb, Firebase, Git repositories, and styling with frameworks as Bootstrap, bootswatch
+                                and tailwinds. I invite you to take a look at the proyects I have developed.
 
-                        
+
                             </p>
                             <div >
                                 <a href="mailto:ricardoandrestellez@gmail.com">Email me!</a>
                                 <img src="mintic-logo.jpg" className="img-fluid rounded float-end" alt="Responsive image" width="80" height="80" />
                             </div>
-                            
+
 
                         </div>
 
