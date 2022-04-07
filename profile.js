@@ -89,16 +89,16 @@ export const posts = [
     {
         title:"React",
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        imageURL:'https://www.pragma.com.co/hubfs/h_react.jpg'
+        imageURL:'http://www.pragma.com.co/hubfs/h_react.jpg'
     },
     {
         title:"Next",
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        imageURL:'https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/UVlzv5dlRqaKaswsfUPk'
+        imageURL:'http://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/UVlzv5dlRqaKaswsfUPk'
     },
     {
         title:"Firebase",
         content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        imageURL:'https://blog.back4app.com/wp-content/uploads/2021/02/firebase.png'
+        imageURL:'http://blog.back4app.com/wp-content/uploads/2021/02/firebase.png'
     },
 ]
