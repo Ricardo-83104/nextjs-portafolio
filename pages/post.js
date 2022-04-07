@@ -8,6 +8,7 @@ const Post = ({post}) => {
 
     console.log(router.query.title);
 
+
     const currentPost = posts.filter(post => post.title === router.query.title)[0];
     console.log(currentPost);
 
