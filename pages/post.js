@@ -12,7 +12,7 @@ const Post = ({post}) => {
     console.log(currentPost);
 
     return (
-        <Layout footer={false} title={currentPost.title}>
+        <Layout footer={false} title={router.query.title}>
             <div className='text-center'>
                 <img src={currentPost.imageURL} alt="" className='img-fluid' style={{width: '50'}}/>
                 <p>{currentPost.content}</p>
