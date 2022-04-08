@@ -1,9 +1,8 @@
-
 import Link from "next/link"
 
 const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div className="container py-2">
+        <div className="container-fluid">
             <Link href="/">
             <a className="navbar-brand">Portafolio</a>
             </Link>
