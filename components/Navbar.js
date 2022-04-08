@@ -4,7 +4,7 @@ const Navbar = () => (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
             <Link href="/">
-            <a className="navbar-brand">Portafolio</a>
+            <a className="navbar-brand">Portfolio</a>
             </Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,8 +24,8 @@ const Navbar = () => (
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link href='https://www.linkedin.com/in/ricardo-tellez-0932a372/'>
-                        <a className="nav-link" >Linkedin</a>
+                        <Link href='https://www.linkedin.com/in/ricardo-tellez-0932a372/' >
+                        <a className="nav-link" target="_blank" rel="noopener noreferrer" >Linkedin</a>
                         </Link>
                     </li>
                 </ul>
