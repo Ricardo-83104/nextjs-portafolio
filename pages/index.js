@@ -18,21 +18,19 @@ const Index = () => (
                         </div>
                         <div className="col-md-8 ">
                             <h1>Hi, I´m Ricardo Tellez</h1>
-                            <h3>FullStack Developer</h3>
-                            <p>I am a full-stack developer with a passion for solving problems with technology. Universidad de los Andes alumni
-                                with an under graduate degree in Biology and a Master of Science in biology. I use my experience as a science teacher
-                                and great solving skills and apply them to web development and programming world.
-
-                                Mintic web developer 2022
-                            </p>
-
-                            <p>
-                                I have a strong interest in technologies as React, Node.js,
+                            <h4>FullStack Developer</h4>
+                            <h4>Bogotá. Colombia</h4>
+                            <br></br>
+                            <p>I am a full-stack developer with experience developing and testing applications based on
+                                MERN react, express, node.js, MongoDB. I have strong interest in technologies as React, Node.js,
                                 Next.js, Mongodb, Firebase, Git repositories, and styling with frameworks as Bootstrap, bootswatch
-                                and tailwinds. I invite you to take a look at the proyects I have developed.
-
-
+                                and tailwinds.
                             </p>
+                            <p>I invite you to take a look at the proyects I have developed. 
+                                This portfolio was build as proyect for learning next.js</p>
+                            <br></br>
+                            <p> Mintic web developer 2022 </p>
+              
                             <div >
                                 <a href="mailto:ricardoandrestellez@gmail.com">Email me!</a>
                                 <img src="mintic-logo.jpg" className="img-fluid rounded float-end" alt="Responsive image" width="80" height="80" />
